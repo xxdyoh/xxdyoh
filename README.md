@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Machine Learning Engineer: I hope to become a skilled machine learning engineer. My desire is to work for a visionary company, participating in developing smart innovations based on data.<br><br>Data Scientist: I hope to become an expert data scientist. My desire is to process and solve data efficiently. The goal is to find trends, meanings, and new knowledge from data that can provide value for many people.</p>
+<p align="left"><b>Machine Learning Engineer:</b> I hope to become a skilled machine learning engineer. My desire is to work for a visionary company, participating in developing smart innovations based on data.<br><br><b>Data Scientist:</b> I hope to become an expert data scientist. My desire is to process and solve data efficiently. The goal is to find trends, meanings, and new knowledge from data that can provide value for many people.</p>
 
 ###
 
