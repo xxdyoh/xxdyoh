@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Fredy Saputro<br>I am a Machine learning practitioner 🤖, Student 🎓, and Gamer 🎮</h2>
+<h2 align="center">Hi 👋! I'm Fredy Saputro<br>I am a Machine Learning Engineer 🤖, Student 🎓, and Gamer 🎮</h2>
 
 ###
 
