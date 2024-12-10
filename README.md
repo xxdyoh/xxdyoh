@@ -1,79 +1,17 @@
-<h2 align="center">Hi 👋! I'm Fredy Saputro<br>I am a Data Scientist 🤖, Student 🎓, and Gamer 🎮</h2>
-
-###
-
 <div align="center">
-  <a href="https://www.instagram.com/xxdy.oh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
-  </a>
-  <a href="fredysaputro001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=17&duration=2000&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Hello+hello+%E2%89%BD%5E%E2%80%A2+%CB%95+%E2%80%A2+%E0%BE%80%E0%BD%B2%E2%89%BC;I'm+Fredy%2C+The+Power+Of+DOOM+DOOM!!+(%E2%97%A3_%E2%97%A2)" alt="Typing SVG" width="70%"/>
+<br><br>
+<pre>
+    💼 UMBY @ Informatics • Machine Learning • AI
+    💻 ERP • Pascal • Desktop Programmer
+    📖 Mobile Flutter • Fullstack Developer
+    🎮 Music • Games • Anime • Code • Art
+    🍵ྀི Matcha Enthusiast ₊ ⊹ • Love Handmade Accessories ✨
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/fredysaputro)
 </div>
-
-###
-
-<h2 align="left">🌟 My Ambition 🌟</h2>
-
-###
-
-<p align="left"><b>Data Scientist:</b> I hope to become an expert data scientist. My desire is to process and solve data efficiently. The goal is to find trends, meanings, and new knowledge from data that can provide value for many people.</p>
-
-###
-
-<h2 align="left">⚔️ Languages - Frameworks - Tools ⚔️</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
-
-###
-
-<h2 align="left">🔥 Currently Learning 🔥</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<details>
-  <summary><h2 align="left">🌫️ GitHub Statistics 🌫️</h2></summary>
-  <p align="center">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xxdyoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxdyoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-</details>
-
-###
