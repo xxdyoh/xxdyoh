@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/cb/77/f5/cb77f54f34f03fde9672044ac58e6763.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=17&duration=2000&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Hello+hello+%E2%89%BD%5E%E2%80%A2+%CB%95+%E2%80%A2+%E0%BE%80%E0%BD%B2%E2%89%BC;I'm+Fredy%2C+The+Power+Of+DOOM+DOOM!!+(%E2%97%A3_%E2%97%A2)" alt="Typing SVG" width="70%"/>
 <br><br>
 <pre>
